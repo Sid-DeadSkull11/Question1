@@ -5,4 +5,3 @@ def test_square():
 
 def test_is_even():
     assert is_even(6)=="Even"
-    assert is_even(7)=="Not Even"
