@@ -3,6 +3,6 @@ def square(n):
 
 def is_even(n):
     if (n/2!=0):
-        return("Not Even")
+        continue
     else:
         return("Even")
